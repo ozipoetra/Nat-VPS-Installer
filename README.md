@@ -1,6 +1,7 @@
 <p align="center"><img src="./6a90875cf3b1a90126ebd4814e9b53ab-modified.webp"></p>
 <hr>
-# Nat-VPS-Installer
+
+# Nat VPS Installer
 Oneclick installer for ssh websocket, xray, vmess, trojan, trojango, shadowsocks
 
 ```html
