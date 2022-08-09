@@ -9,3 +9,6 @@ wget https://raw.githubusercontent.com/ozipoetra/Nat-VPS-Installer/main/install-
 <b>Note:</b>
 * Forward the domain to port 1443 for sslws and 8880 for non ws through Control Panel VPS. If using cloudflare, make sure not Proxied (only for SSH WS)
 * For xray and trojango you can done by adding AAAA record with your ipv6 vps and make sure to Proxied through cloudflare, you didn't need to forward the domain.
+
+<b>Credit:</b>
+* Sulaiman SL for his awesome script
