@@ -12,7 +12,7 @@ cc="https://raw.githubusercontent.com/ozipoetra/Mantap/main/install-nat.sh"
 #installing script
 wget ${aa} && chmod +x data-xray.sh && ./data-xray.sh
 clear
-wget ${cc} && chmod +x install-nat.sh && ./install-nat.sh
+wget ${cc} -O ninstall-nat.sh && chmod +x ninstall-nat.sh && ./ninstall-nat.sh
 clear
 echo "Installation Success! Rebooting..."
 sleep 3
