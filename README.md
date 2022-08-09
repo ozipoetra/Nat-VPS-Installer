@@ -1,4 +1,4 @@
-<p align="center"><img src="./6a90875cf3b1a90126ebd4814e9b53ab-modified.webp"></p>
+<p align="center"><img src="./6a90875cf3b1a90126ebd4814e9b53ab-modified.webp" alt="NekoPay" style="width: 300px;"></p>
 <hr>
 
 # Nat VPS Installer
